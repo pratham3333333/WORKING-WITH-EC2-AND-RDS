@@ -2,7 +2,7 @@
 
 This project demonstrates how to set up an Amazon RDS database instance with MariaDB and access it from an EC2 instance using a custom VPC configuration. The architecture spans three Availability Zones (AZs), including one public and two private subnets, leveraging the AWS Free Tier.
 
-![Architecture Topology](path/to/topology.png)
+![Architecture Topology](topology.png)
 
 ## 🎯 Objectives
 
